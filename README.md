@@ -10,7 +10,7 @@ From the figure below, there are four input fields to filter the displayed data.
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/59425631/133010824-971a6bfc-e40f-4c28-ba20-194b7b2864b4.png)
 
-To filter the table, fill the fields with your search criteria as shown in the figire below.
+To filter the table, fill the fields with your search criteria as shown in the figure below.
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/59425631/133010957-d3d826d7-9266-4b3f-878c-e8f0d5e81ca3.png)
 
